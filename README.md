@@ -41,20 +41,14 @@ https://youtu.be/OGh4Iou_eWk
 
 
 
-## Set up and Installation
+## Set up and Installation and  Start the development server
 1. Clone the repository:
    ```bash
    git clone https://github.com/meshach5667/aptos-nft-market-place-bounty
    cd aptos-nft-market-place-bounty
    cd frontend
-npm install
-```
-
-
-### Start the development server
-```
-```bash
-npm start
+   npm install
+   npm start
 
 ```
 

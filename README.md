@@ -3,7 +3,7 @@
 This is an Aptos-related project that showcases the development of an NFT marketplace on the Aptos blockchain. The platform allows users to view their NFTs, list them for sale, and interact with NFTs on the marketplace. The repository includes various features such as an Analytics Dashboard designed to enhance the user experience.
 
 
-##Features Overview
+## Features Overview
 
 - **My NFTs**: Users can view their NFTs, list them for sale, and interact with them.
 - **Marketplace**: Users can browse NFTs available for sale, filter by rarity, and add NFTs to their wishlist.

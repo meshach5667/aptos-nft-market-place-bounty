@@ -38,8 +38,8 @@ The core additional feature of this project is the **NFT Marketplace Analytics D
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/meshach5667/aptos-bounty.git
-   cd aptos-bounty
+   git clone https://github.com/meshach5667/aptos-nft-market-place-bounty
+   cd aptos-nft-market-place-bounty
 npm install```
 
 

@@ -34,12 +34,19 @@ The core additional feature of this project is the **NFT Marketplace Analytics D
    - A list of popular NFTs with their sales details.
 3. The data is visualized using bar and pie charts, providing users with actionable insights.
 
+## Demo video
+
+```bash
+https://youtu.be/OGh4Iou_eWk
+```
+
 
 ## Installation
 1. Clone the repository:
    ```bash
    git clone https://github.com/meshach5667/aptos-nft-market-place-bounty
    cd aptos-nft-market-place-bounty
+   cd frontend
 npm install```
 
 

@@ -40,12 +40,14 @@ The core additional feature of this project is the **NFT Marketplace Analytics D
    ```bash
    git clone https://github.com/meshach5667/aptos-bounty.git
    cd aptos-bounty
-npm install
-```
-##Start the development server:
+npm install```
+
+
+### Start the development server
 
 ```bash
 npm start
+
 ```
 
 
